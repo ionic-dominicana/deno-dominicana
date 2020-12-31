@@ -1,0 +1,9 @@
+[
+    {
+        "name": "@Ionic Dominicana",
+        "email": "ionic-dominican@outlook.com",
+        "password": "123456",
+        "role": "admin",
+        "isDisabled": false
+    }
+]
