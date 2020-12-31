@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "project-target-name": {
+      "hosting": {
+        "my-api-project-name": [
+          "project-name"
+        ]
+      }
+    }
+  }
+}
