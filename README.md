@@ -298,7 +298,7 @@ const seedCollections: Array<Record<string, boolean>> = [
 
 
 
-### EECUTAR
+### EJECUTAR
 
 En la raíz de su proyecto, abra la terminal y ejecute el siguiente comando para ejecutar el proyecto:
 
